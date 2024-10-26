@@ -1,4 +1,4 @@
-# Ten Spades: A Balatro Mod
+# 10 Spades: A Balatro Mod
 Inspired by this game's glitched seeds, this [Balatro](https://www.playbalatro.com/) mod adds the **10 Spades Deck**, which adds a chance for any RNG in the game to have constant outcome,
 so you may have things like drawing the same set of cards every Blind, the shop only containing Planets, or Wheel of Fortune always working.
 
