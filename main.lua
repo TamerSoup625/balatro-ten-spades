@@ -61,7 +61,7 @@ if CardSleeves then
         pos = {x = 1, y = 0},
         loc_vars = function(self)
             local key, vars
-            if self.get_current_deck_name() ~= "10 Spades Deck" then
+            if self.get_current_deck_key() ~= "b_ten_spades_ten_spades" then
                 key = self.key
                 self.config = {rng_lock_chance = ten_spades_mod.config.chance_to_lock_rng_1_in_x}
                 vars = {self.config.rng_lock_chance}
